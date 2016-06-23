@@ -1,0 +1,70 @@
+
+{"blue" :[
+    {
+        "atomic_number": 1,
+        "abbreviation": "H",
+        "atomic_weight": 1.008
+    },
+    {
+        "atomic_number": 3,
+        "abbreviation": "Li",
+        "atomic_weight": 6.939
+    },
+    {   
+        "atomic_number": 4,
+        "abbreviation": "Be",
+        "atomic_weight": 9.012
+    },
+    {
+        "atomic_number": 11,
+        "abbreviation": "Na",
+        "atomic_weight": 22.990
+    },
+    {   
+        "atomic_number": 12,
+        "abbreviation": "Mg",
+        "atomic_weight": 24.312
+    },
+    {   
+        "atomic_number": 19,
+        "abbreviation": "K",
+        "atomic_weight": 39.102
+    },
+    {
+        "atomic_number": 20,
+        "abbreviation": "Ca",
+        "atomic_weight": 40.08
+    },
+    {
+        "atomic_number": 37,
+        "abbreviation": "Rb",
+        "atomic_weight": 85.47
+    },
+    {   
+
+        "atomic_number": 38,
+        "abbreviation": "Sr",
+        "atomic_weight": 87.62
+    },
+    {
+        "atomic_number": 55,
+        "abbreviation": "Cs",
+        "atomic_weight": 132.905
+    },
+    {
+        "atomic_number": 56,
+        "abbreviation": "Ba",
+        "atomic_weight": 137.34
+    },
+    {
+        "atomic_number": 87,
+        "abbreviation": "Fr",
+        "atomic_weight": 223
+    },
+    {
+        "atomic_number": 88,
+        "abbreviation": "Ra",
+        "atomic_weight": 226.05
+    }
+]}
+

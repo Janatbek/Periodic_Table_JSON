@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+#wrapper{
+	width: 1070px;
+	margin: 0 auto;
+}
+.text, .blank, .yellow, .blue, .pink, .green, .long_text{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	border:1px solid silver;
+}
+.blue{
+	background: #689bff;
+}
+.pink{
+	background: #fd9a98;
+}
+.yellow{
+	background: #fecb00;
+}
+.green{
+	background: #1fca21;
+}
+.long_text{
+	width: 162px;
+}
+.text, .long_text{
+	color: red;
+	line-height: 50px;
+	text-align: center;
+	vertical-align: top;
+}
+.small{
+padding-top: 10px;
+display: inline-block;
+font-size: 15px;
+line-height: 15px;
+}
+.top_space{
+	margin-top: 20px;
+}
+.letters{
+	text-transform:capitalize;
+}
+.at_numbers, .at_weigth{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+}
+.letters{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #1913a2;
+	font-family: Arial;
+}
+#liquid{
+	width: 120px;
+}
+#gas{
+	width: 400px;
+}
+#solid{
+	width: 520px;
+}
+#neutral{
+	width: 750px;
+}
