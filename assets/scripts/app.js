@@ -2,7 +2,7 @@
 $( document ).ready(function() {
 
 	    $.getJSON( "./assets/scripts/data.json", function( data ) {
-	    	
+
 	    	for(var i = 0; i < 5; i++){
 	    			$("#gas").append('<div class="blank"></div>')
 	    		};

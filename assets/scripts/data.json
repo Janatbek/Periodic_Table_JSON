@@ -138,6 +138,36 @@
             "atomic_weight": 39.948
         },
         {
+            "atomic_number": 31,
+            "abbreviation": "Ga",
+            "atomic_weight": 69.72
+        },
+        {  
+            "atomic_number": 32,
+            "abbreviation": "Ge",
+            "atomic_weight": 72.59
+        },
+        {
+            "atomic_number": 33,
+            "abbreviation": "As",
+            "atomic_weight": 74.92
+        },
+        {
+            "atomic_number": 34,
+            "abbreviation": "Se",
+            "atomic_weight": 78.96
+        },
+        {
+            "atomic_number": 35,
+            "abbreviation": "Br",
+            "atomic_weight": 79.909
+        },
+        {
+            "atomic_number": 36,
+            "abbreviation": "Kr",
+            "atomic_weight": 83.80
+        },
+        {
             "atomic_number": 49,
             "abbreviation": "In",
             "atomic_weight": 114.82
@@ -200,32 +230,32 @@
         {   
             "atomic_number": 113,
             "abbreviation": "Uut",
-            "atomic_weight": "NaN"
+            "atomic_weight": 284.18
         },
         {   
             "atomic_number": 114,
             "abbreviation": "Uuq",
-            "atomic_weight": "NaN"
+            "atomic_weight": 289.19
         },
         {   
             "atomic_number": 115,
             "abbreviation": "Uup",
-            "atomic_weight": "NaN"
+            "atomic_weight": 288.19
         },
         {   
             "atomic_number": 116,
             "abbreviation": "Uuh",
-            "atomic_weight": "NaN"
+            "atomic_weight": 293
         },
         {   
             "atomic_number": 117,
             "abbreviation": "Uus",
-            "atomic_weight": "NaN"
+            "atomic_weight": 294
         },
         {   
             "atomic_number": 118,
             "abbreviation": "Uuo",
-            "atomic_weight": "NaN"
+            "atomic_weight": 294
         }
     ]},
 
@@ -405,32 +435,31 @@
         {
             "atomic_number": 107,
             "abbreviation": "Bh",
-            "atomic_weight": "NaN"
-        },
+            "atomic_weight": 270        },
         {
             "atomic_number": 108,
             "abbreviation": "Hs",
-            "atomic_weight": "NaN"
+            "atomic_weight": 277.15
         },
         {   
             "atomic_number": 109,
             "abbreviation": "Mt",
-            "atomic_weight": "NaN"
+            "atomic_weight": 281.16
         },
         {   
             "atomic_number": 110,
             "abbreviation": "Ds",
-            "atomic_weight": "NaN"
+            "atomic_weight": 280.16
         },
         {   
             "atomic_number": 111,
             "abbreviation": "Rg",
-            "atomic_weight": "NaN"
+            "atomic_weight": 285.17
         },
         {
             "atomic_number": 112,
             "abbreviation": "Uub",
-            "atomic_weight": "NaN"
+            "atomic_weight": 285.17
         }
     ]},
 
