@@ -6,13 +6,18 @@
 #wrapper{
 	width: 1070px;
 	margin: 0 auto;
+	background: #dddddd;
 }
-.text, .blank, .yellow, .blue, .pink, .green, .long_text{
+.text, .blank, .yellow, .blue, .pink, .green{
 	display: inline-block;
 	width: 50px;
 	height: 50px;
+	border:1px solid transparent;
+}
+.yellow, .blue, .pink, .green{
 	border:1px solid silver;
 }
+
 .blue{
 	background: #689bff;
 }
@@ -26,7 +31,7 @@
 	background: #1fca21;
 }
 .long_text{
-	width: 162px;
+	padding-left: 38px;
 }
 .text, .long_text{
 	color: red;
@@ -43,9 +48,6 @@ line-height: 15px;
 .top_space{
 	margin-top: 20px;
 }
-.letters{
-	text-transform:capitalize;
-}
 .at_numbers, .at_weigth{
 	font-family: Arial;
 	font-size: 12px;
@@ -59,14 +61,44 @@ line-height: 15px;
 	font-family: Arial;
 }
 #liquid{
-	width: 120px;
+	width: 105px;
 }
 #gas{
-	width: 400px;
+	width: 315px;
+	display: inline-block;
+
 }
 #solid{
 	width: 520px;
 }
+
+#y_numbers{
+	display: inline-block;
+	width: 50px;
+	height:380px;
+}
+#wrap_for_liquid{
+	display: inline-block;
+	width: 100px;
+	height: inherit;
+	background: #dddddd;
+}
+#wrapper_for_pink{
+	width: 515px;
+	display: inline-block;
+	margin-top: 155px;
+
+}
 #neutral{
-	width: 750px;
+    display: inline-block;
+    width: 750px;
+    margin-bottom: 30px;
+}
+#wrapper_for_text{
+	width: 155px;
+	display: inline-block;
+
+}
+.star{
+	padding-left: 20px;
 }
