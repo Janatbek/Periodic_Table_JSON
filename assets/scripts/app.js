@@ -2,7 +2,8 @@
 $( document ).ready(function() {
 
 	     $.getJSON( "./assets/scripts/data.json", function( data ) {
-//Object constructor for my objects	    		
+//Object constructor for my objects:
+
 			function table(array) {
 	    		this.array = array;
 	    	}
