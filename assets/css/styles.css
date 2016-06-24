@@ -1,0 +1,104 @@
+*{
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+#wrapper{
+	width: 1070px;
+	margin: 0 auto;
+	background: #dddddd;
+}
+.text, .blank, .yellow, .blue, .pink, .green{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	border:1px solid transparent;
+}
+.yellow, .blue, .pink, .green{
+	border:1px solid silver;
+}
+
+.blue{
+	background: #689bff;
+}
+.pink{
+	background: #fd9a98;
+}
+.yellow{
+	background: #fecb00;
+}
+.green{
+	background: #1fca21;
+}
+.long_text{
+	padding-left: 38px;
+}
+.text, .long_text{
+	color: red;
+	line-height: 50px;
+	text-align: center;
+	vertical-align: top;
+}
+.small{
+padding-top: 10px;
+display: inline-block;
+font-size: 15px;
+line-height: 15px;
+}
+.top_space{
+	margin-top: 20px;
+}
+.at_numbers, .at_weigth{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+}
+.letters{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #1913a2;
+	font-family: Arial;
+}
+#liquid{
+	width: 105px;
+}
+#gas{
+	width: 315px;
+	display: inline-block;
+
+}
+#solid{
+	width: 520px;
+}
+
+#y_numbers{
+	display: inline-block;
+	width: 50px;
+	height:380px;
+}
+#wrap_for_liquid{
+	display: inline-block;
+	width: 100px;
+	height: inherit;
+	background: #dddddd;
+}
+#wrapper_for_pink{
+	width: 515px;
+	display: inline-block;
+	margin-top: 155px;
+
+}
+#neutral{
+    display: inline-block;
+    width: 750px;
+    margin-bottom: 30px;
+}
+#wrapper_for_text{
+	width: 155px;
+	display: inline-block;
+
+}
+.star{
+	padding-left: 20px;
+}
